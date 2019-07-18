@@ -1,0 +1,42 @@
+/**
+ *
+ * @author: zhulang
+ */
+body{
+    margin-right: auto;
+    margin-left: auto;
+}
+.budget-on-index{
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow:auto;
+    min-width: 100px;
+}
+.dropdown{
+    margin-bottom:15px;
+}
+p{
+    float: right;
+    display: inline;
+}
+.starting{
+    color:#009100;
+}
+.ended{
+    color:#FF3333;
+}
+.no_stat{
+    color:#000000;
+}
+table {
+    table-layout:fixed;
+    overflow-x:auto;
+    min-width: 300px;
+}
+.start{
+    min-width: 10px;
+    color: #FFFFFF;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #1E9FFF;
+}
